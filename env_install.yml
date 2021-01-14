@@ -1,4 +1,4 @@
-name: femtoup
+name: femtoupfile
 dependencies:
   - python=3.8
   - pip
