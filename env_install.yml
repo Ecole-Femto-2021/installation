@@ -2,7 +2,7 @@ name: femtoupfile
 dependencies:
   - python=3.8
   - pip
-  - numpy==1.9.3
+  - numpy==1.19.3
   - spyder
   
   - pip:
