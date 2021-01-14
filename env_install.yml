@@ -2,7 +2,8 @@ name: femtoup
 dependencies:
   - python=3.8
   - numpy=1.9.3
-  - spyder
   - pyqt
   - pip:
     - pymodaq
+    - spyder
+    - jupyterlab
