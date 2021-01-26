@@ -2,9 +2,9 @@ name: femtoupfile
 dependencies:
   - python=3.8.6
   - pip
-  - spyder
-  
+ 
   - pip:
+    - spyder
     - pymodaq
     - jupyterlab
     - rtree
