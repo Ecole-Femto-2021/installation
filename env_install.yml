@@ -8,3 +8,4 @@ dependencies:
     - pymodaq
     - jupyterlab
     - rtree
+    - matplotlib
