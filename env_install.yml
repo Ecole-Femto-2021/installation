@@ -1,20 +1,22 @@
 name: femtoupfile
 dependencies:
-  - python=3.7.9
+  - python=3.8
   - pip
   - toml
  
   - pip:
     - numpy
+    - PyQt5==5.12.2
+    - PyQtWebEngine==5.12.1
     - scipy
-    - spyder
     - pymodaq
+    - spyder>=3.5
     - git+https://github.com/seb5g/pypret.git
     - git+https://github.com/CEMES-CNRS/pymodaq_plugins_femto.git
     - git+https://github.com/CEMES-CNRS/pymodaq_femto.git
     - jupyterlab
-    - rtree
+    - rtree>=0.8.3
     - matplotlib
     - ipython
     - pillow
-    
+    - readme-renderer
