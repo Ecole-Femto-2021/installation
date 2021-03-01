@@ -11,9 +11,9 @@ dependencies:
     - scipy
     - pymodaq
     - spyder>=3.5
-    - git+https://github.com/seb5g/pypret.git
-    - git+https://github.com/CEMES-CNRS/pymodaq_plugins_femto.git
-    - git+https://github.com/CEMES-CNRS/pymodaq_femto.git
+#    - git+https://github.com/seb5g/pypret.git
+#    - git+https://github.com/CEMES-CNRS/pymodaq_plugins_femto.git
+#    - git+https://github.com/CEMES-CNRS/pymodaq_femto.git
     - jupyterlab
     - rtree>=0.8.3
     - matplotlib
