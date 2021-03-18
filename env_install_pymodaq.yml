@@ -1,0 +1,15 @@
+name: pymodaq_femto
+dependencies:
+  - python=3.8.6
+  - pip
+  - toml
+ 
+  - pip:
+    - numpy
+    - pymodaq==3.1.0
+    - pymodaq_plugin_manager
+    - git+https://github.com/seb5g/pypret.git
+    - pymodaq_plugins_femto
+    - pymodaq_femto
+    - matplotlib
+
