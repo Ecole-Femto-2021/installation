@@ -1,6 +1,6 @@
 name: pymodaq_femto
 dependencies:
-  - python=3.8.6
+  - python=3.7.9
   - pip
   - toml
  
