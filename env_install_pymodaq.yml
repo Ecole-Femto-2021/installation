@@ -11,6 +11,6 @@ dependencies:
     - pymodaq_plugin_manager
     - git+https://github.com/seb5g/pypret.git
     - pymodaq_plugins_femto
-    - pymodaq_femto
+    - git+https://github.com/CEMES-CNRS/pymodaq_femto.git
     - matplotlib
 
